@@ -9,8 +9,7 @@ It allows managing products dynamically without modifying frontend code.
 
 * Sanity.io
 * JavaScript
-* Node.js
-
+* React
 ---
 
 ## ✨ Features
